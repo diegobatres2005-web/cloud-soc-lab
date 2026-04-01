@@ -25,10 +25,10 @@ This project demonstrates the deployment of a cloud-based Security Operations Ce
 - Real-world simulation of cyber attacks
 
 ## Screenshots
+![Lab Architecture](lab-visual.png)
 ![Attack Map](attack-map.png)
-![Sentinel Logs](sentinel-logs.png)
-![KQL Queries](kql-logs.png)
-![Virtual Machine](virtual-machine.png)
+![KQL Queries](KQL-logs.png)
+![Virtual Machine Firewalls](vm-firewalls.png)
 
 ## What I Learned
 - How to deploy a SOC environment in the cloud
