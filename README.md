@@ -29,6 +29,7 @@ This project demonstrates the deployment of a cloud-based Security Operations Ce
 ![Attack Map](attack-map.png)
 ![KQL Queries](KQL-logs.png)
 ![Virtual Machine Firewalls](vm-firewalls.png)
+![Lab Overview](lab-overview.png)
 
 ## What I Learned
 - How to deploy a SOC environment in the cloud
